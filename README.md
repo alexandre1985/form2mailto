@@ -1,3 +1,5 @@
+( this repository now lives at [https://gitlab.com/alexandre1985/form2mailto/](https://gitlab.com/alexandre1985/form2mailto/) )
+
 # Form2Mailto
 
 API-free, Bot-Spam filter, JavaScript for email form submission sending.  
